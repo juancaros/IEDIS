@@ -1,51 +1,95 @@
-#Import libraries, pytrends, pandas and time to add waiting time between queries 
+#!/usr/bin/env python
+# coding: utf-8
 
-import time
-import pandas as pd   
+import json
+import pandas as pd
+import requests
 from pytrends.request import TrendReq
+import time
+
+INTEREST_BY_REGION_URL = 'https://trends.google.com/trends/api/widgetdata/comparedgeo'
 
 
-# Only need to run this once, the rest of requests will use the same session.
-pytrends = TrendReq(hl='es', tz=360)
+def interest_by_city(self, inc_low_vol=True, time_frame=None):
+    """Request data from Google's Interest by City section and return a dataframe"""
 
-# keywords
-keywords = ['ansiedad', 'estrés', 'tristeza', 'depresión']
-keywords.sort() # Sort the list
+    # make the request
+    resolution = 'CITY'
+    region_payload = dict()
+    self.interest_by_region_widget['request'][
+        'resolution'] = resolution
 
-# locations
-geo = ['ES-AN', 'ES-AR', 'ES-CN', 'ES-CB', 'ES-CL', 'ES-CM', 'ES-CT', 'ES-CE', 'ES-MD', 'ES-VC', 'ES-EX', 'ES-GA', 'ES-IB', 'ES-RI', 'ES-ML', 'ES-NC', 'ES-PV', 'ES-AS', 'ES-MC' ]
-geo.sort()
+    self.interest_by_region_widget['request'][
+        'includeLowSearchVolumeGeos'] = inc_low_vol
 
-#timeframe 
-timeframe='2018-06-01 2019-06-30'
+    # convert to string as requests will mangle
+    region_payload['req'] = json.dumps(
+        self.interest_by_region_widget['request'])
+    region_payload['token'] = self.interest_by_region_widget['token']
+    region_payload['tz'] = self.tz
 
-# Perform searches
-wait = 6 # in seconds
-print('Number of queries to do: ', len(keywords) * len(geo))
+    # parse returned json
+    req_json = self._get_data(
+        url=TrendReq.INTEREST_BY_REGION_URL,
+        method='get',
+        trim_chars=5,
+        params=region_payload,
+    )
+    df = pd.DataFrame(req_json['default']['geoMapData'])
+    if (df.empty):
+        return df
 
-# Prepare containers
-trends = dict.fromkeys(geo)
-errors_list = []
-cnt = 1
+    # rename the column with the search keyword
+    df = df[['geoName', 'coordinates', 'value', 'hasData']].set_index(
+        ['geoName']).sort_index()
+    # split list columns into separate ones, remove brackets and split on comma
+    result_df = df['value'].apply(lambda x: pd.Series(
+        str(x).replace('[', '').replace(']', '').split(',')))
 
-# Start loops
-for g in geo:
-    trends[g] = {}
-    for k in keywords:
-        try:
-            time.sleep(wait)
-            pytrends.build_payload([k], timeframe=timeframe, geo=g, gprop='')
-            trends[g][k] = pytrends.interest_over_time()[k]
-            #print(cnt, 'Success: ', g, k)
+    # rename each column with its search term
+    for idx, kw in enumerate(self.kw_list):
+        result_df[kw] = result_df[idx].astype('int')
+        del result_df[idx]
+    result_df['time_frame'] = time_frame
+    return result_df
 
-        except:
-            print(cnt, ') Error: ', g, ' & ', k)
-            errors_list.append([g,k])
-        cnt+=1
+def get_interest_by_city_panel(pytrends, kw_list, time_frame):
+    # Split the time frame into start and end dates
+    start_date, end_date = time_frame.split()
+
+    # Initialize an empty DataFrame to store the results
+    panel_df = pd.DataFrame()
+
+    for date in pd.date_range(start=start_date, end=end_date):
+        start_date = date.strftime('%Y-%m-%d')
+        end_date = (date + pd.DateOffset(days=1)).strftime('%Y-%m-%d')
+        current_timeframe = start_date + ' ' + end_date
         
-print('\nDone -', len(errors_list), 'errors left')
+        print(current_timeframe)
+        time.sleep(wait)
+        pytrends.build_payload(kw_list, cat=0, timeframe=current_timeframe, geo='ES', gprop='')
+        city_data = interest_by_city(pytrends, time_frame=current_timeframe)
+        panel_df = pd.concat([panel_df, city_data], axis=0)
 
-dict_of_trends = {g: pd.DataFrame(k) for g,k in trends.items()}
-data_df = pd.concat(dict_of_trends, axis=1)
-data_df.to_csv('trends.csv',index=False)
-data_df.head() # Check data
+    return panel_df
+
+panel_data = pd.DataFrame()
+
+pytrends = TrendReq(hl='es', tz=360)
+kw_list = ["ansiedad"]
+
+time_frame = '2018-06-01 2018-06-05'
+wait = 6
+
+# Get the interest by city panel data
+city_panel_data = get_interest_by_city_panel(pytrends, kw_list, time_frame)
+
+# Pivot the data to have cities as columns and dates as rows
+city_panel_data_pivoted = city_panel_data.pivot_table(index='time_frame', columns='geoName')
+
+print(city_panel_data_pivoted)
+
+# Exportar el DataFrame a un archivo CSV
+city_panel_data_pivoted.to_csv('panel_data.csv')
+
+print("Datos exportados a panel_data.csv")
