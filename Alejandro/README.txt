@@ -8,7 +8,7 @@ Este notebook contiene el análisis visual de los datos utilizando Prophet. Incl
 
 -Carga y preparación de datos: Carga los datos consolidados y prepara el formato adecuado para Prophet.
 -Visualización de los datos originales: Grafica los datos originales de Google Trends.
-Ajuste del modelo Prophet: Ajusta un modelo Prophet a los datos.
+-Ajuste del modelo Prophet: Ajusta un modelo Prophet a los datos.
 -Predicciones: Genera y visualiza predicciones a futuro.
 -Detección de anomalías: Identifica posibles anomalías en los datos.
 -Cross-validation: Realiza validación cruzada para evaluar el modelo.
