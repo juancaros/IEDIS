@@ -12,8 +12,8 @@ file_path = 'data out/google_trends_semanal_2010_2023.csv'
 data = pd.read_csv(file_path)
 
 # Filtrar los datos para Francia y la palabra clave "Ansiedad"
-country = "Francia"  # Cambiar este valor para seleccionar otro país
-country_h="France" # nombre del pais en ingles para calcular feriado
+country = "Francia"  
+country_h="France" 
 keyword = "Ansiedad"
 country_data = data[(data['País'] == country) & (data['Palabra Clave'] == keyword)].copy()
 
