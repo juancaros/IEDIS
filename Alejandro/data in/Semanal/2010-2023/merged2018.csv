@@ -2119,112 +2119,324 @@ Fecha,Palabra Clave,Puntuación,País,Código Google Trend,Created_at
 2018-12-16,Depresión,56,Eslovaquia,SK,13/06/2024 16:12
 2018-12-23,Depresión,40,Eslovaquia,SK,13/06/2024 16:12
 2018-12-30,Depresión,63,Eslovaquia,SK,13/06/2024 16:12
-2017-12-31,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-01-07,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-01-14,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-01-21,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-01-28,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-02-04,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-02-11,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-02-18,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-02-25,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-03-04,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-03-11,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-03-18,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-03-25,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-04-01,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-04-08,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-04-15,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-04-22,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-04-29,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-05-06,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-05-13,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-05-20,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-05-27,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-06-03,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-06-10,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-06-17,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-06-24,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-07-01,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-07-08,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-07-15,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-07-22,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-07-29,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-08-05,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-08-12,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-08-19,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-08-26,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-09-02,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-09-09,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-09-16,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-09-23,Desánimo,100,Estonia,EE,13/06/2024 16:13
-2018-09-30,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-10-07,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-10-14,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-10-21,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-10-28,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-11-04,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-11-11,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-11-18,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-11-25,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-12-02,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-12-09,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-12-16,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-12-23,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2018-12-30,Desánimo,0,Estonia,EE,13/06/2024 16:13
-2017-12-31,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-01-07,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-01-14,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-01-21,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-01-28,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-02-04,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-02-11,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-02-18,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-02-25,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-03-04,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-03-11,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-03-18,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-03-25,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-04-01,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-04-08,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-04-15,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-04-22,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-04-29,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-05-06,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-05-13,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-05-20,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-05-27,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-06-03,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-06-10,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-06-17,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-06-24,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-07-01,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-07-08,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-07-15,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-07-22,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-07-29,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-08-05,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-08-12,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-08-19,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-08-26,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-09-02,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-09-09,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-09-16,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-09-23,Desánimo,100,Malta,MT,13/06/2024 16:14
-2018-09-30,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-10-07,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-10-14,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-10-21,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-10-28,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-11-04,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-11-11,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-11-18,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-11-25,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-12-02,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-12-09,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-12-16,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-12-23,Desánimo,0,Malta,MT,13/06/2024 16:14
-2018-12-30,Desánimo,0,Malta,MT,13/06/2024 16:14
+2017-12-31,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-01-07,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-01-14,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-01-21,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-01-28,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-02-04,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-02-11,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-02-18,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-02-25,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-03-04,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-03-11,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-03-18,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-03-25,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-04-01,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-04-08,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-04-15,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-04-22,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-04-29,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-05-06,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-05-13,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-05-20,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-05-27,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-06-03,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-06-10,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-06-17,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-06-24,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-07-01,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-07-08,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-07-15,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-07-22,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-07-29,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-08-05,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-08-12,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-08-19,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-08-26,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-09-02,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-09-09,Desánimo,100,Bélgica,BE,21/06/2024 17:20
+2018-09-16,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-09-23,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-09-30,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-10-07,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-10-14,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-10-21,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-10-28,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-11-04,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-11-11,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-11-18,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-11-25,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-12-02,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-12-09,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-12-16,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-12-23,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2018-12-30,Desánimo,0,Bélgica,BE,21/06/2024 17:20
+2017-12-31,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-01-07,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-01-14,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-01-21,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-01-28,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-02-04,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-02-11,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-02-18,Desánimo,100,Alemania,DE,21/06/2024 17:19
+2018-02-25,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-03-04,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-03-11,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-03-18,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-03-25,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-04-01,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-04-08,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-04-15,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-04-22,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-04-29,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-05-06,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-05-13,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-05-20,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-05-27,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-06-03,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-06-10,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-06-17,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-06-24,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-07-01,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-07-08,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-07-15,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-07-22,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-07-29,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-08-05,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-08-12,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-08-19,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-08-26,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-09-02,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-09-09,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-09-16,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-09-23,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-09-30,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-10-07,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-10-14,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-10-21,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-10-28,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-11-04,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-11-11,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-11-18,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-11-25,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-12-02,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-12-09,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-12-16,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-12-23,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2018-12-30,Desánimo,0,Alemania,DE,21/06/2024 17:19
+2017-12-31,Desánimo,0,España,ES,21/06/2024 17:20
+2018-01-07,Desánimo,0,España,ES,21/06/2024 17:20
+2018-01-14,Desánimo,0,España,ES,21/06/2024 17:20
+2018-01-21,Desánimo,0,España,ES,21/06/2024 17:20
+2018-01-28,Desánimo,0,España,ES,21/06/2024 17:20
+2018-02-04,Desánimo,0,España,ES,21/06/2024 17:20
+2018-02-11,Desánimo,0,España,ES,21/06/2024 17:20
+2018-02-18,Desánimo,0,España,ES,21/06/2024 17:20
+2018-02-25,Desánimo,0,España,ES,21/06/2024 17:20
+2018-03-04,Desánimo,0,España,ES,21/06/2024 17:20
+2018-03-11,Desánimo,0,España,ES,21/06/2024 17:20
+2018-03-18,Desánimo,0,España,ES,21/06/2024 17:20
+2018-03-25,Desánimo,0,España,ES,21/06/2024 17:20
+2018-04-01,Desánimo,0,España,ES,21/06/2024 17:20
+2018-04-08,Desánimo,0,España,ES,21/06/2024 17:20
+2018-04-15,Desánimo,0,España,ES,21/06/2024 17:20
+2018-04-22,Desánimo,0,España,ES,21/06/2024 17:20
+2018-04-29,Desánimo,100,España,ES,21/06/2024 17:20
+2018-05-06,Desánimo,0,España,ES,21/06/2024 17:20
+2018-05-13,Desánimo,0,España,ES,21/06/2024 17:20
+2018-05-20,Desánimo,0,España,ES,21/06/2024 17:20
+2018-05-27,Desánimo,0,España,ES,21/06/2024 17:20
+2018-06-03,Desánimo,0,España,ES,21/06/2024 17:20
+2018-06-10,Desánimo,0,España,ES,21/06/2024 17:20
+2018-06-17,Desánimo,0,España,ES,21/06/2024 17:20
+2018-06-24,Desánimo,0,España,ES,21/06/2024 17:20
+2018-07-01,Desánimo,0,España,ES,21/06/2024 17:20
+2018-07-08,Desánimo,0,España,ES,21/06/2024 17:20
+2018-07-15,Desánimo,0,España,ES,21/06/2024 17:20
+2018-07-22,Desánimo,0,España,ES,21/06/2024 17:20
+2018-07-29,Desánimo,0,España,ES,21/06/2024 17:20
+2018-08-05,Desánimo,0,España,ES,21/06/2024 17:20
+2018-08-12,Desánimo,0,España,ES,21/06/2024 17:20
+2018-08-19,Desánimo,0,España,ES,21/06/2024 17:20
+2018-08-26,Desánimo,0,España,ES,21/06/2024 17:20
+2018-09-02,Desánimo,0,España,ES,21/06/2024 17:20
+2018-09-09,Desánimo,0,España,ES,21/06/2024 17:20
+2018-09-16,Desánimo,0,España,ES,21/06/2024 17:20
+2018-09-23,Desánimo,0,España,ES,21/06/2024 17:20
+2018-09-30,Desánimo,0,España,ES,21/06/2024 17:20
+2018-10-07,Desánimo,0,España,ES,21/06/2024 17:20
+2018-10-14,Desánimo,0,España,ES,21/06/2024 17:20
+2018-10-21,Desánimo,0,España,ES,21/06/2024 17:20
+2018-10-28,Desánimo,0,España,ES,21/06/2024 17:20
+2018-11-04,Desánimo,0,España,ES,21/06/2024 17:20
+2018-11-11,Desánimo,0,España,ES,21/06/2024 17:20
+2018-11-18,Desánimo,0,España,ES,21/06/2024 17:20
+2018-11-25,Desánimo,0,España,ES,21/06/2024 17:20
+2018-12-02,Desánimo,0,España,ES,21/06/2024 17:20
+2018-12-09,Desánimo,0,España,ES,21/06/2024 17:20
+2018-12-16,Desánimo,0,España,ES,21/06/2024 17:20
+2018-12-23,Desánimo,0,España,ES,21/06/2024 17:20
+2018-12-30,Desánimo,0,España,ES,21/06/2024 17:20
+2017-12-31,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-01-07,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-01-14,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-01-21,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-01-28,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-02-04,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-02-11,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-02-18,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-02-25,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-03-04,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-03-11,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-03-18,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-03-25,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-04-01,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-04-08,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-04-15,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-04-22,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-04-29,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-05-06,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-05-13,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-05-20,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-05-27,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-06-03,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-06-10,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-06-17,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-06-24,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-07-01,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-07-08,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-07-15,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-07-22,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-07-29,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-08-05,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-08-12,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-08-19,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-08-26,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-09-02,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-09-09,Desánimo,100,Francia,FR,21/06/2024 17:20
+2018-09-16,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-09-23,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-09-30,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-10-07,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-10-14,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-10-21,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-10-28,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-11-04,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-11-11,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-11-18,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-11-25,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-12-02,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-12-09,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-12-16,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-12-23,Desánimo,0,Francia,FR,21/06/2024 17:20
+2018-12-30,Desánimo,0,Francia,FR,21/06/2024 17:20
+2017-12-31,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-01-07,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-01-14,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-01-21,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-01-28,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-02-04,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-02-11,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-02-18,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-02-25,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-03-04,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-03-11,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-03-18,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-03-25,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-04-01,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-04-08,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-04-15,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-04-22,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-04-29,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-05-06,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-05-13,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-05-20,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-05-27,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-06-03,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-06-10,Desánimo,89,Italia,IT,21/06/2024 17:20
+2018-06-17,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-06-24,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-07-01,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-07-08,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-07-15,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-07-22,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-07-29,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-08-05,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-08-12,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-08-19,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-08-26,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-09-02,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-09-09,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-09-16,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-09-23,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-09-30,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-10-07,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-10-14,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-10-21,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-10-28,Desánimo,100,Italia,IT,21/06/2024 17:20
+2018-11-04,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-11-11,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-11-18,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-11-25,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-12-02,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-12-09,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-12-16,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-12-23,Desánimo,0,Italia,IT,21/06/2024 17:20
+2018-12-30,Desánimo,0,Italia,IT,21/06/2024 17:20
+2017-12-31,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-01-07,Desánimo,100,Países Bajos,NL,21/06/2024 17:20
+2018-01-14,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-01-21,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-01-28,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-02-04,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-02-11,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-02-18,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-02-25,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-03-04,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-03-11,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-03-18,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-03-25,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-04-01,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-04-08,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-04-15,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-04-22,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-04-29,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-05-06,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-05-13,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-05-20,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-05-27,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-06-03,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-06-10,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-06-17,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-06-24,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-07-01,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-07-08,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-07-15,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-07-22,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-07-29,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-08-05,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-08-12,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-08-19,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-08-26,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-09-02,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-09-09,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-09-16,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-09-23,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-09-30,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-10-07,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-10-14,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-10-21,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-10-28,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-11-04,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-11-11,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-11-18,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-11-25,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-12-02,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-12-09,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-12-16,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-12-23,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
+2018-12-30,Desánimo,0,Países Bajos,NL,21/06/2024 17:20
 2017-12-31,Psicoterapia,62,Austria,AT,13/06/2024 16:22
 2018-01-07,Psicoterapia,85,Austria,AT,13/06/2024 16:22
 2018-01-14,Psicoterapia,87,Austria,AT,13/06/2024 16:22

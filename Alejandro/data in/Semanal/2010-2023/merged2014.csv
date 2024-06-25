@@ -2119,112 +2119,218 @@ Fecha,Palabra Clave,Puntuación,País,Código Google Trend,Created_at
 2014-12-14,Depresión,75,Eslovaquia,SK,13/06/2024 16:49
 2014-12-21,Depresión,0,Eslovaquia,SK,13/06/2024 16:49
 2014-12-28,Depresión,71,Eslovaquia,SK,13/06/2024 16:49
-2013-12-29,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-01-05,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-01-12,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-01-19,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-01-26,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-02-02,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-02-09,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-02-16,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-02-23,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-03-02,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-03-09,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-03-16,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-03-23,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-03-30,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-04-06,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-04-13,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-04-20,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-04-27,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-05-04,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-05-11,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-05-18,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-05-25,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-06-01,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-06-08,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-06-15,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-06-22,Desánimo,100,Chipre,CY,13/06/2024 16:49
-2014-06-29,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-07-06,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-07-13,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-07-20,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-07-27,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-08-03,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-08-10,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-08-17,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-08-24,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-08-31,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-09-07,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-09-14,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-09-21,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-09-28,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-10-05,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-10-12,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-10-19,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-10-26,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-11-02,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-11-09,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-11-16,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-11-23,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-11-30,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-12-07,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-12-14,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-12-21,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2014-12-28,Desánimo,0,Chipre,CY,13/06/2024 16:49
-2013-12-29,Desánimo,0,España,ES,13/06/2024 16:50
-2014-01-05,Desánimo,0,España,ES,13/06/2024 16:50
-2014-01-12,Desánimo,0,España,ES,13/06/2024 16:50
-2014-01-19,Desánimo,0,España,ES,13/06/2024 16:50
-2014-01-26,Desánimo,0,España,ES,13/06/2024 16:50
-2014-02-02,Desánimo,0,España,ES,13/06/2024 16:50
-2014-02-09,Desánimo,0,España,ES,13/06/2024 16:50
-2014-02-16,Desánimo,0,España,ES,13/06/2024 16:50
-2014-02-23,Desánimo,0,España,ES,13/06/2024 16:50
-2014-03-02,Desánimo,0,España,ES,13/06/2024 16:50
-2014-03-09,Desánimo,0,España,ES,13/06/2024 16:50
-2014-03-16,Desánimo,0,España,ES,13/06/2024 16:50
-2014-03-23,Desánimo,0,España,ES,13/06/2024 16:50
-2014-03-30,Desánimo,0,España,ES,13/06/2024 16:50
-2014-04-06,Desánimo,0,España,ES,13/06/2024 16:50
-2014-04-13,Desánimo,0,España,ES,13/06/2024 16:50
-2014-04-20,Desánimo,0,España,ES,13/06/2024 16:50
-2014-04-27,Desánimo,0,España,ES,13/06/2024 16:50
-2014-05-04,Desánimo,0,España,ES,13/06/2024 16:50
-2014-05-11,Desánimo,0,España,ES,13/06/2024 16:50
-2014-05-18,Desánimo,0,España,ES,13/06/2024 16:50
-2014-05-25,Desánimo,0,España,ES,13/06/2024 16:50
-2014-06-01,Desánimo,0,España,ES,13/06/2024 16:50
-2014-06-08,Desánimo,0,España,ES,13/06/2024 16:50
-2014-06-15,Desánimo,0,España,ES,13/06/2024 16:50
-2014-06-22,Desánimo,0,España,ES,13/06/2024 16:50
-2014-06-29,Desánimo,0,España,ES,13/06/2024 16:50
-2014-07-06,Desánimo,0,España,ES,13/06/2024 16:50
-2014-07-13,Desánimo,0,España,ES,13/06/2024 16:50
-2014-07-20,Desánimo,0,España,ES,13/06/2024 16:50
-2014-07-27,Desánimo,0,España,ES,13/06/2024 16:50
-2014-08-03,Desánimo,0,España,ES,13/06/2024 16:50
-2014-08-10,Desánimo,0,España,ES,13/06/2024 16:50
-2014-08-17,Desánimo,0,España,ES,13/06/2024 16:50
-2014-08-24,Desánimo,0,España,ES,13/06/2024 16:50
-2014-08-31,Desánimo,0,España,ES,13/06/2024 16:50
-2014-09-07,Desánimo,0,España,ES,13/06/2024 16:50
-2014-09-14,Desánimo,0,España,ES,13/06/2024 16:50
-2014-09-21,Desánimo,100,España,ES,13/06/2024 16:50
-2014-09-28,Desánimo,0,España,ES,13/06/2024 16:50
-2014-10-05,Desánimo,0,España,ES,13/06/2024 16:50
-2014-10-12,Desánimo,0,España,ES,13/06/2024 16:50
-2014-10-19,Desánimo,0,España,ES,13/06/2024 16:50
-2014-10-26,Desánimo,0,España,ES,13/06/2024 16:50
-2014-11-02,Desánimo,0,España,ES,13/06/2024 16:50
-2014-11-09,Desánimo,0,España,ES,13/06/2024 16:50
-2014-11-16,Desánimo,0,España,ES,13/06/2024 16:50
-2014-11-23,Desánimo,0,España,ES,13/06/2024 16:50
-2014-11-30,Desánimo,0,España,ES,13/06/2024 16:50
-2014-12-07,Desánimo,0,España,ES,13/06/2024 16:50
-2014-12-14,Desánimo,0,España,ES,13/06/2024 16:50
-2014-12-21,Desánimo,0,España,ES,13/06/2024 16:50
-2014-12-28,Desánimo,0,España,ES,13/06/2024 16:50
+2013-12-29,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-01-05,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-01-12,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-01-19,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-01-26,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-02-02,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-02-09,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-02-16,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-02-23,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-03-02,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-03-09,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-03-16,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-03-23,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-03-30,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-04-06,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-04-13,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-04-20,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-04-27,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-05-04,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-05-11,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-05-18,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-05-25,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-06-01,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-06-08,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-06-15,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-06-22,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-06-29,Desánimo,100,Estonia,EE,21/06/2024 17:25
+2014-07-06,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-07-13,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-07-20,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-07-27,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-08-03,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-08-10,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-08-17,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-08-24,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-08-31,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-09-07,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-09-14,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-09-21,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-09-28,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-10-05,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-10-12,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-10-19,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-10-26,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-11-02,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-11-09,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-11-16,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-11-23,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-11-30,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-12-07,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-12-14,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-12-21,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2014-12-28,Desánimo,0,Estonia,EE,21/06/2024 17:25
+2013-12-29,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-01-05,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-01-12,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-01-19,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-01-26,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-02-02,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-02-09,Desánimo,100,Francia,FR,21/06/2024 17:25
+2014-02-16,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-02-23,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-03-02,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-03-09,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-03-16,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-03-23,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-03-30,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-04-06,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-04-13,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-04-20,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-04-27,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-05-04,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-05-11,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-05-18,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-05-25,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-06-01,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-06-08,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-06-15,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-06-22,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-06-29,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-07-06,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-07-13,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-07-20,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-07-27,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-08-03,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-08-10,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-08-17,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-08-24,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-08-31,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-09-07,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-09-14,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-09-21,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-09-28,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-10-05,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-10-12,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-10-19,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-10-26,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-11-02,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-11-09,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-11-16,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-11-23,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-11-30,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-12-07,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-12-14,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-12-21,Desánimo,0,Francia,FR,21/06/2024 17:25
+2014-12-28,Desánimo,0,Francia,FR,21/06/2024 17:25
+2013-12-29,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-01-05,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-01-12,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-01-19,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-01-26,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-02-02,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-02-09,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-02-16,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-02-23,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-03-02,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-03-09,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-03-16,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-03-23,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-03-30,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-04-06,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-04-13,Desánimo,100,Italia,IT,21/06/2024 17:25
+2014-04-20,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-04-27,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-05-04,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-05-11,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-05-18,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-05-25,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-06-01,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-06-08,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-06-15,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-06-22,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-06-29,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-07-06,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-07-13,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-07-20,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-07-27,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-08-03,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-08-10,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-08-17,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-08-24,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-08-31,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-09-07,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-09-14,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-09-21,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-09-28,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-10-05,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-10-12,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-10-19,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-10-26,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-11-02,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-11-09,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-11-16,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-11-23,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-11-30,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-12-07,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-12-14,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-12-21,Desánimo,0,Italia,IT,21/06/2024 17:25
+2014-12-28,Desánimo,0,Italia,IT,21/06/2024 17:25
+2013-12-29,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-01-05,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-01-12,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-01-19,Desánimo,100,Países Bajos,NL,21/06/2024 17:25
+2014-01-26,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-02-02,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-02-09,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-02-16,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-02-23,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-03-02,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-03-09,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-03-16,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-03-23,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-03-30,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-04-06,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-04-13,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-04-20,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-04-27,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-05-04,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-05-11,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-05-18,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-05-25,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-06-01,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-06-08,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-06-15,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-06-22,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-06-29,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-07-06,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-07-13,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-07-20,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-07-27,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-08-03,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-08-10,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-08-17,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-08-24,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-08-31,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-09-07,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-09-14,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-09-21,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-09-28,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-10-05,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-10-12,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-10-19,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-10-26,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-11-02,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-11-09,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-11-16,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-11-23,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-11-30,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-12-07,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-12-14,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-12-21,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
+2014-12-28,Desánimo,0,Países Bajos,NL,21/06/2024 17:25
 2013-12-29,Psicoterapia,48,Austria,AT,13/06/2024 16:51
 2014-01-05,Psicoterapia,93,Austria,AT,13/06/2024 16:51
 2014-01-12,Psicoterapia,88,Austria,AT,13/06/2024 16:51

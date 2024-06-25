@@ -1,4 +1,4 @@
-date,desánimo,isPartial
+date,Väsimus,isPartial
 2014-12-28,0,False
 2015-01-04,0,False
 2015-01-11,0,False
@@ -9,7 +9,7 @@ date,desánimo,isPartial
 2015-02-15,0,False
 2015-02-22,0,False
 2015-03-01,0,False
-2015-03-08,0,False
+2015-03-08,97,False
 2015-03-15,0,False
 2015-03-22,0,False
 2015-03-29,0,False
@@ -33,7 +33,7 @@ date,desánimo,isPartial
 2015-08-02,0,False
 2015-08-09,0,False
 2015-08-16,0,False
-2015-08-23,100,False
+2015-08-23,0,False
 2015-08-30,0,False
 2015-09-06,0,False
 2015-09-13,0,False
@@ -45,7 +45,7 @@ date,desánimo,isPartial
 2015-10-25,0,False
 2015-11-01,0,False
 2015-11-08,0,False
-2015-11-15,0,False
+2015-11-15,100,False
 2015-11-22,0,False
 2015-11-29,0,False
 2015-12-06,0,False

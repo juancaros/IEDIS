@@ -1,4 +1,4 @@
-date,desánimo,isPartial
+date,Skoraġġiment,isPartial
 2021-12-26,0,False
 2022-01-02,0,False
 2022-01-09,0,False
@@ -10,7 +10,7 @@ date,desánimo,isPartial
 2022-02-20,0,False
 2022-02-27,0,False
 2022-03-06,0,False
-2022-03-13,100,False
+2022-03-13,0,False
 2022-03-20,0,False
 2022-03-27,0,False
 2022-04-03,0,False
@@ -30,7 +30,7 @@ date,desánimo,isPartial
 2022-07-10,0,False
 2022-07-17,0,False
 2022-07-24,0,False
-2022-07-31,0,False
+2022-07-31,100,False
 2022-08-07,0,False
 2022-08-14,0,False
 2022-08-21,0,False

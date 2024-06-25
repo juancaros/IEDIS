@@ -1,11 +1,11 @@
-date,desánimo,isPartial
+date,Nusivylimas,isPartial
 2021-12-26,0,False
 2022-01-02,0,False
 2022-01-09,0,False
 2022-01-16,0,False
 2022-01-23,0,False
 2022-01-30,0,False
-2022-02-06,0,False
+2022-02-06,100,False
 2022-02-13,0,False
 2022-02-20,0,False
 2022-02-27,0,False
@@ -29,7 +29,7 @@ date,desánimo,isPartial
 2022-07-03,0,False
 2022-07-10,0,False
 2022-07-17,0,False
-2022-07-24,100,False
+2022-07-24,0,False
 2022-07-31,0,False
 2022-08-07,0,False
 2022-08-14,0,False

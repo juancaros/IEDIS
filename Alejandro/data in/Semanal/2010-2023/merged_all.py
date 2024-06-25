@@ -24,7 +24,7 @@ for file in files:
 if data_frames:
     final_df = pd.concat(data_frames, ignore_index=True)
     # Guardar el DataFrame final a un archivo CSV
-   # final_df.to_csv('google_trends_semanal_2010_2023.csv', index=False)
+    final_df.to_csv('google_trends_semanal_2010_2023.csv', index=False)
     print("Archivo unificado creado con éxito.")
 else:
     print("No se han encontrado archivos CSV válidos.")

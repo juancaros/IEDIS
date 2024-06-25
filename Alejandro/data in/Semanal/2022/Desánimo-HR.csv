@@ -1,4 +1,4 @@
-date,desánimo,isPartial
+date,Malodušnost,isPartial
 2021-12-26,0,False
 2022-01-02,0,False
 2022-01-09,0,False
@@ -9,12 +9,12 @@ date,desánimo,isPartial
 2022-02-13,0,False
 2022-02-20,0,False
 2022-02-27,0,False
-2022-03-06,100,False
+2022-03-06,0,False
 2022-03-13,0,False
 2022-03-20,0,False
 2022-03-27,0,False
 2022-04-03,0,False
-2022-04-10,0,False
+2022-04-10,100,False
 2022-04-17,0,False
 2022-04-24,0,False
 2022-05-01,0,False

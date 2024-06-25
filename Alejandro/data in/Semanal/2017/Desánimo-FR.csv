@@ -1,10 +1,10 @@
-date,desánimo,isPartial
+date,Découragement,isPartial
 2017-01-01,0,False
 2017-01-08,0,False
 2017-01-15,0,False
 2017-01-22,0,False
 2017-01-29,0,False
-2017-02-05,0,False
+2017-02-05,100,False
 2017-02-12,0,False
 2017-02-19,0,False
 2017-02-26,0,False
@@ -36,7 +36,7 @@ date,desánimo,isPartial
 2017-08-27,0,False
 2017-09-03,0,False
 2017-09-10,0,False
-2017-09-17,0,False
+2017-09-17,79,False
 2017-09-24,0,False
 2017-10-01,0,False
 2017-10-08,0,False
@@ -47,7 +47,7 @@ date,desánimo,isPartial
 2017-11-12,0,False
 2017-11-19,0,False
 2017-11-26,0,False
-2017-12-03,100,False
+2017-12-03,0,False
 2017-12-10,0,False
 2017-12-17,0,False
 2017-12-24,0,False

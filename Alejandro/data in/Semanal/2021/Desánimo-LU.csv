@@ -1,4 +1,4 @@
-date,desánimo,isPartial
+date,Découragement,isPartial
 2020-12-27,0,False
 2021-01-03,0,False
 2021-01-10,0,False
@@ -15,11 +15,11 @@ date,desánimo,isPartial
 2021-03-28,0,False
 2021-04-04,0,False
 2021-04-11,0,False
-2021-04-18,0,False
+2021-04-18,96,False
 2021-04-25,0,False
 2021-05-02,0,False
 2021-05-09,0,False
-2021-05-16,0,False
+2021-05-16,100,False
 2021-05-23,0,False
 2021-05-30,0,False
 2021-06-06,0,False
@@ -44,7 +44,7 @@ date,desánimo,isPartial
 2021-10-17,0,False
 2021-10-24,0,False
 2021-10-31,0,False
-2021-11-07,100,False
+2021-11-07,0,False
 2021-11-14,0,False
 2021-11-21,0,False
 2021-11-28,0,False
