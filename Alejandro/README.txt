@@ -20,23 +20,15 @@ Contenido del repositorio
 1. francia-ansiedad.py
 Este código se basa en el enfoque presentado en el sitio web "https://juanitorduz.github.io/fb_prophet/" para usar Prophet en análisis de series temporales con datos de Google Trends semanales.
 
--Lee un archivo CSV con datos de Google Trends.
--Filtra los datos para un país específico (Francia) y una palabra clave (Ansiedad). Estos pueden ser cambiados para su implementación en streamlit
--Convierte las fechas del DataFrame a formato datetime.
--Obtiene los días festivos del país seleccionado y los almacena en un DataFrame.
--Prepara y ajusta el modelo Prophet.
--Define parámetros de crecimiento logístico.
--Divide los datos en conjuntos de entrenamiento y prueba.
--Configura el modelo Prophet con estacionalidad semanal y anual, y días festivos.
--Realiza predicciones futuras y devuelve el modelo ajustado, las predicciones y los datos de prueba.
--Evalúa el rendimiento del modelo calculando el error absoluto medio (MAE) y el error cuadrático medio (RMSE) entre las predicciones y los valores reales.
--Itera sobre diferentes órdenes de Fourier para la estacionalidad anual.
--Ajusta el modelo Prophet con cada orden y evalúa el rendimiento usando MAE y RMSE.
--Selecciona el modelo con el menor MAE para graficar las predicciones finales.
--Grafica las predicciones del modelo Prophet.
--Incluye líneas verticales para los días festivos.
--Muestra los componentes del modelo (tendencias y estacionalidades).
--Compara las predicciones con los valores reales, destacando el año 2023 si es relevante.
+-Carga y preparación de datos: Carga los datos consolidados y prepara el formato adecuado para Prophet.
+-Visualización de los datos originales: Grafica los datos originales de Google Trends.
+-Ajuste del modelo Prophet: Ajusta un modelo Prophet a los datos.
+-Predicciones: Genera y visualiza predicciones a futuro.
+-Detección de anomalías: Identifica posibles anomalías en los datos.
+-Cross-validation: Realiza validación cruzada para evaluar el modelo.
+-Evaluación del modelo: Presenta métricas de evaluación del modelo.
+-Visualización de la incertidumbre de las predicciones: Muestra la incertidumbre asociada a las predicciones.
+-Descomposición de la estacionalidad y componentes de la tendencia: Descompone los datos en sus componentes principales.
 
 2. francia-ansiedad.py
 Los países de la Unión Europea se han dividido en grupos basados en su ubicación geográfica, lo que facilita la comparación de tendencias entre regiones similares.
@@ -56,9 +48,5 @@ Contiene los datos en formato CSV descargados de Google Trends, organizados por 
 4. Carpeta data out
 Contiene los datos consolidados y procesados, listos para ser analizados en el notebook visual.ipynb.
 
-
-ARCHIVOS DESCONTINUADOS
-
--descargar_datos2.0.py
--visual.ypnb
-
+Próximamente
+Durante la tarde se agregará un archivo similar a visual.ipynb pero en formato .py, que permitirá generar y guardar imágenes de los gráficos en una carpeta específica.
