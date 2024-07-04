@@ -1,16 +1,8 @@
-------Implementación en Streamlit------
-En el archivo francia-ansiedad.py favor cambiar línea 14 a 17
-	Ejemplo, actualmente aparece un análisis para Francia y Ansiedad de la siguiente manera 
-		country = "Francia"  
-		country_h="France" 
-		keyword = "Ansiedad"
-
-	Para España y Depresión el cambio debe ser el siguiente:
-		country = "España"  
-		country_h="Spain" 
-		keyword = "Depresión"
-
-Los gráficos menos representativos puedes ser eliminados
+------Ejecutar Implementación en Streamlit------
+1° Abrir la Terminal: En Windows 11digitar "cmd" en busqueda de barra de inicio
+2° Utilizar el comando cd para navegar al directorio donde se encuentra el archivo aplicacion_streamlit.py. Por ejemplo:
+"cd C:\IEDISAlejandro\"
+3° Ejecutar la Aplicación Streamlit: digitar en la consola desplegada:  "streamlit run aplicacion_streamlit.py"
 ----------------------------------------------------------------------------------------
 Repositorio Alejandro
 
