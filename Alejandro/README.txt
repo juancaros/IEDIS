@@ -48,5 +48,6 @@ Contiene los datos en formato CSV descargados de Google Trends, organizados por 
 4. Carpeta data out
 Contiene los datos consolidados y procesados, listos para ser analizados en el notebook visual.ipynb.
 
-Próximamente
-Durante la tarde se agregará un archivo similar a visual.ipynb pero en formato .py, que permitirá generar y guardar imágenes de los gráficos en una carpeta específica.
+Archivos descontinuados
+-descargar_datos2.0.py
+-visual.ypbn
