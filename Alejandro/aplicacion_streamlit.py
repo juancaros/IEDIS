@@ -69,8 +69,7 @@ def fit_prophet(df, fourier_order=10):
     df['floor'] = 0
     train = df[df['ds'] < '2023-01-01']
     test = df[df['ds'] >= '2023-01-01']
-    model = Prophet(growth='logistic', 
-                    weekly_seasonality=True, 
+    model = Prophet(weekly_seasonality=False, 
                     yearly_seasonality=False, 
                     holidays=holidays_df)
     model.add_seasonality(name='Anual', period=365.25, fourier_order=fourier_order)
@@ -93,8 +92,8 @@ def evaluate_model(forecast, test):
 def plot_forecast(model, forecast, test, keyword):
     fig, ax = plt.subplots(figsize=(10, 6))
     model.plot(forecast, ax=ax)
-    for holiday in holidays_df['ds']:
-        ax.axvline(x=holiday, color='red', linestyle='--', linewidth=0.8)
+    #for holiday in holidays_df['ds']:
+    #    ax.axvline(x=holiday, color='red', linestyle='--', linewidth=0.8)
     ax.set_title(f'Pronóstico para {keyword} en {country}')
     ax.set_xlabel('Fecha')
     ax.set_ylabel('Puntuación de búsqueda')
